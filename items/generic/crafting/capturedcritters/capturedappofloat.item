@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedappofloat",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedappofloat.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Appo Float",
+  "itemTags" : [ "reagent" ]
+}

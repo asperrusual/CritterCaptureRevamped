@@ -1,0 +1,24 @@
+{
+  "objectName" : "reasonablecage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "Well, this creature seems reasonable enough. What is it though?",
+  "shortdescription" : "Captured Reasonable",
+  "race" : "generic",
+
+  "inventoryIcon" : "crittercageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "crittercage.png:<frame>.<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 24,
+      "animationCycle" : 4.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

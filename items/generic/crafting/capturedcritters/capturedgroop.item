@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedgroop",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedgroop.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Groop",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedhazmat",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedhazmat.png",
+  "description" : "A captured scab bug.",
+  "shortdescription" : "Captured Hazmat Scab",
+  "itemTags" : [ "reagent" ]
+}

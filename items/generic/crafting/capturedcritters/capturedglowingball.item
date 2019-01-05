@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedglowingball",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedglowingball.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Glowing Ball",
+  "itemTags" : [ "reagent" ]
+}

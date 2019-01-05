@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedredbreast",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedredbreast.png",
+  "description" : "A captured bird.",
+  "shortdescription" : "Captured Red Breast",
+  "itemTags" : [ "reagent" ]
+}

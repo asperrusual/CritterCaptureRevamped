@@ -1,0 +1,24 @@
+{
+  "objectName" : "bouncercage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "It's a... Well it's bouncy, alright.",
+  "shortdescription" : "Captured Bouncer",
+  "race" : "generic",
+
+  "inventoryIcon" : "crittercageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "crittercage.png:<frame>.<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 32,
+      "animationCycle" : 4.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

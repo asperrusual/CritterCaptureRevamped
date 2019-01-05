@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedjelly",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedjelly.png",
+  "description" : "A captured jellyfish.",
+  "shortdescription" : "Captured Jellyfish",
+  "itemTags" : [ "reagent" ]
+}

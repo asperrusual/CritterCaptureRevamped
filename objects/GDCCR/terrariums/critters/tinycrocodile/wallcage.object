@@ -1,0 +1,23 @@
+{
+  "objectName" : "tinycrocodilewallcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "Careful! He nips.",
+  "shortdescription" : "Captured Tiny Crocodile",
+  "race" : "generic",
+
+  "inventoryIcon" : "wallcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "wallcage.png:<frame>.<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 32,
+      "animationCycle" : 4.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

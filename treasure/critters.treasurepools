@@ -1,0 +1,1205 @@
+{
+  "birdcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedbird", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+  "apexscabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedapexscab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+  "avianscabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedavianscab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+  "ashrockcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedashrock", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "appofloatcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedappofloat", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+  "arcticfishcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedarcticfish", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "bowbirdcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedbowbird", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "floatbagcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedfloatbag", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "gullcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedgull", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "owlcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedowl", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "harecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedhare", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "ravencritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedraven", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "vulturecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedvulture", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "redbreastcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedredbreast", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+
+
+  "crabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedcrab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "fishcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedfish", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "jellycritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedjelly", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "squidcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsquid", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+
+
+  "armadillocritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedarmadillo", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "bunnycritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedbunny", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "deserttortoisecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["captureddeserttortoise", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "frogcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedfrog", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "hedgehogcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedhedgehog", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "mousecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedmouse", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "snailcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsnail", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "squeekcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsqueek", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+  "squirrelcritter": [
+    [0, {
+      "pool": [{
+          "weight": 1,
+          "item": ["capturedsquirrelred", 1]
+        },
+        {
+          "weight": 1,
+          "item": ["capturedsquirrelgrey", 1]
+        }
+      ],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "reasonablecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedreasonable", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "blipcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedblip", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "bouncebagcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedbouncebag", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "eyefriendcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedeyefriend", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "eyepodcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedeyepod", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "groopcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedgroop", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "sackbagcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsackbag", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "snooglecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsnoogle", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "sporelingcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsporeling", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "wurmcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedwurm", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "wintercritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedwinter", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "bloodtoadcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedbloodtoad", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "bouncercritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedbouncer", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "charfishcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedcharfish", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "chevcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedchev", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "cliffcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedcliff", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "crystalbirdcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedcrystalbird", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "dartcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["captureddart", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "fishberrycritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedfishberry", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "fishchilicritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedfishchili", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "fishlemoncritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedfishlemon", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "floranscabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedfloranscab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "frogpolecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedfrogpole", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "frozenowlcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedfrozenowl", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "glitchscabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedglitchscab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "glowingball2critter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedglowingball2", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "glowingballcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedglowingball", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+  "glowingfishcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedglowingfish", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "hazmatcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedhazmat", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "humanscabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedhumanscab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "hylotlscabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedhylotlscab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "icescabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedicescab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "leafscabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedleafscab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "narfishcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturednarfish", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "penguinscabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedpenguinscab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "petalcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedpetal", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "pufferfishcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedpufferfish", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "quibblecritter": [
+    [0, {
+      "pool": [{
+          "weight": 1,
+          "item": ["capturedquibbleblue", 1]
+        },
+        {
+          "weight": 1,
+          "item": ["capturedquibblegreen", 1]
+        }
+      ],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "savybirdcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsavybird", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "sealcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedseal", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "steambirdcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsteambird", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "toucritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedtou", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "tritrotscritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedtritrots", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "snowbcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsnowb", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "snowymolecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsnowymole", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "spidercritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedspider", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "spindycritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedspindy", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "steamfishcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsteamfish", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "steamspidercritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsteamspider", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "toxiccrabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedtoxiccrab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "volcanicflowercritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedvolcanicflower", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "yeticritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedyeti", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "ciclesnailcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedciclesnail", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "crystaltortoisecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedcrystaltortoise", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "darknessscabcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["captureddarknessscab", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "maggotcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedmaggot", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "rolypolycritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedrolypoly", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "skellyfishcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedskellyfish", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "slugbluecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedslugblue", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "slugcritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedslug", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "sluggreencritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsluggreen", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "snakecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsnake", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "snorecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsnore", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "tortoisecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedtortoise", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ],
+
+  "symbiotecritter": [
+    [0, {
+      "pool": [{
+        "weight": 1,
+        "item": ["capturedsymbiote", 1]
+      }],
+      "poolRounds": [
+        [1, 1]
+      ],
+      "allowDuplication": true
+    }]
+  ]
+}

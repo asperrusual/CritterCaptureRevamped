@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptyaquarium_swamp", "count" : 1 },
+    { "item" : "capturedfrogpole", "count" : 1 }
+  ],
+  "output" : { "item" : "frogpoleaquarium", "count" : 1 },
+  "groups" : [ "craftingcritters", "aquarium" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsquid",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsquid.png",
+  "description" : "A captured squid.",
+  "shortdescription" : "Captured Squid",
+  "itemTags" : [ "reagent" ]
+}

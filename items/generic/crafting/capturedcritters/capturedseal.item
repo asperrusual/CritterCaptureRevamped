@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedseal",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedseal.png",
+  "description" : "A captured seal.",
+  "shortdescription" : "Captured Seal",
+  "itemTags" : [ "reagent" ]
+}

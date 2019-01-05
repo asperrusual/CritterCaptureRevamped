@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedwinter",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedwinter.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Winter",
+  "itemTags" : [ "reagent" ]
+}

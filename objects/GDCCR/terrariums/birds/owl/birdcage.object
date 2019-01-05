@@ -1,0 +1,33 @@
+{
+  "objectName" : "owlbirdcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "Who did you capture? Who! Who! Who! ... It's an owl.",
+  "shortdescription" : "Owl Birdcage",
+  "race" : "generic",
+
+  "inventoryIcon" : "birdcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "birdcageground.png:<frame>.<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 9,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "dualImage" : "birdcageceiling.png:<frame>.<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 9,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

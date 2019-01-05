@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedtou",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedtou.png",
+  "description" : "A captured bird.",
+  "shortdescription" : "Captured Toucan",
+  "itemTags" : [ "reagent" ]
+}

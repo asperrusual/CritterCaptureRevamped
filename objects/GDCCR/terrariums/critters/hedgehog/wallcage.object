@@ -1,0 +1,23 @@
+{
+  "objectName" : "hedgehogwallcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "This little Hedgehog is so cute! Just look at it's little face... goochy goochy goo!",
+  "shortdescription" : "Captured Hedgehog",
+  "race" : "generic",
+
+  "inventoryIcon" : "wallcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "wallcage.png:<frame>.<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 32,
+      "animationCycle" : 4.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

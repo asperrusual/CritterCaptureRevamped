@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptyaquarium_arctic", "count" : 1 },
+    { "item" : "capturedcharfish", "count" : 1 }
+  ],
+  "output" : { "item" : "charfishaquarium", "count" : 1 },
+  "groups" : [ "craftingcritters", "aquarium" ]
+}

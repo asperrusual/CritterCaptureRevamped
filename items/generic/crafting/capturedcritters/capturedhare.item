@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedhare",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedhare.png",
+  "description" : "A captured hare.",
+  "shortdescription" : "Captured Hare",
+  "itemTags" : [ "reagent" ]
+}

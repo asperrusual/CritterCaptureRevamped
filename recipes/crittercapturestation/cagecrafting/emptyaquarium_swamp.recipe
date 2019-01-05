@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "emptycrittercage", "count" : 1 },
+    { "item" : "swampwater", "count" : 20 },
+    { "item" : "mud", "count" : 5 }
+  ],
+  "output" : { "item" : "emptyaquarium_swamp", "count" : 1 },
+  "groups" : [ "craftingcritters", "cagecrafting" ]
+}

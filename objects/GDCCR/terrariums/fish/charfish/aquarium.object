@@ -1,0 +1,24 @@
+{
+  "objectName" : "charfishaquarium",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "A hardy fish adapted to life in chilly ocean waters.",
+  "shortdescription" : "Char Fish Aquarium",
+  "race" : "generic",
+
+  "inventoryIcon" : "aquariumicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "aquarium.png:<frame>.<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 32,
+      "animationCycle" : 4.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

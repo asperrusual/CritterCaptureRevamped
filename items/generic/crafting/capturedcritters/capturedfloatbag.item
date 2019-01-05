@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedfloatbag",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedfloatbag.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Float Bag",
+  "itemTags" : [ "reagent" ]
+}

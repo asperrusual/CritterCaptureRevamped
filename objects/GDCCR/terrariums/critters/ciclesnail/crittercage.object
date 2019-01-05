@@ -1,0 +1,24 @@
+{
+  "objectName" : "ciclesnailcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "This snail chisels its shell out of icicles. It's like a portable igloo!",
+  "shortdescription" : "Captured 'Cicle Snail",
+  "race" : "generic",
+
+  "inventoryIcon" : "crittercageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "crittercage.png:<frame>.<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 70,
+      "animationCycle" : 50.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

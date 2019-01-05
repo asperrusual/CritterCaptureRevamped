@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsnore",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsnore.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Snore",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedfrozenowl",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedfrozenowl.png",
+  "description" : "A captured bird.",
+  "shortdescription" : "Captured Frozen Owl",
+  "itemTags" : [ "reagent" ]
+}

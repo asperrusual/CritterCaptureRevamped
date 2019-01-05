@@ -1,0 +1,39 @@
+{
+  "objectName" : "glowingball2wallcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "A strange bioluminescent creature. Is it some sort of juvenile?",
+  "shortdescription" : "Captured Glowing Ball",
+  "race" : "generic",
+
+  "lightColor" : [128, 120, 20],
+  "lightPosition" : [0, 0],
+
+  "inventoryIcon" : "glowingball2wallcageicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "glowingball2wallcage.png:<color>.<frame>", "fullbright" : true }, { "image" : "glowingball2wallcagelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+      "frames" : 32,
+      "animationCycle" : 4.0,
+      "direction" : "left",
+      "flipImages" : true,
+
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "glowingball2wallcage.png:<color>.<frame>", "fullbright" : true }, { "image" : "glowingball2wallcagelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+      "frames" : 32,
+      "animationCycle" : 4.0,
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

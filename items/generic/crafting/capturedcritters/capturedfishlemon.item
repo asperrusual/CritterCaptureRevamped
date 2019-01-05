@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedfishlemon",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedfishlemon.png",
+  "description" : "A captured fish.",
+  "shortdescription" : "Captured Lemon Fish",
+  "itemTags" : [ "reagent" ]
+}

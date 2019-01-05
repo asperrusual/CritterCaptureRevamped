@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/orientations/0/dualImage",
+    "value": "symbiotesample.png:<color>.<frame>"
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/0/frames",
+    "value": 8
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/0/animationCycle",
+    "value": 1
+  }
+]

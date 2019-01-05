@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedspindy",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedspindy.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Spindy",
+  "itemTags" : [ "reagent" ]
+}

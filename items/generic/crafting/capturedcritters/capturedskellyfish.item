@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedskellyfish",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedskellyfish.png",
+  "description" : "A captured fish.",
+  "shortdescription" : "Captured Skelly Fish",
+  "itemTags" : [ "reagent" ]
+}

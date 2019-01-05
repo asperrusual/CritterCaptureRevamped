@@ -1,0 +1,23 @@
+{
+  "objectName" : "petalwallcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "An adorable creature found amongst giant flower blossoms.",
+  "shortdescription" : "Captured Petal",
+  "race" : "generic",
+
+  "inventoryIcon" : "wallcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "wallcage.png:<frame>.<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 32,
+      "animationCycle" : 4.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptycrittercage", "count" : 1 },
+    { "item" : "capturedtortoise", "count" : 1 }
+  ],
+  "output" : { "item" : "tortoisecage", "count" : 1 },
+  "groups" : [ "craftingcritters", "crittercage" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedhedgehog",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedhedgehog.png",
+  "description" : "A captured hedgehog.",
+  "shortdescription" : "Captured Hedgehog",
+  "itemTags" : [ "reagent" ]
+}

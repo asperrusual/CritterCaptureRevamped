@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptyaquarium_ocean", "count" : 1 },
+    { "item" : "capturedfishlemon", "count" : 1 }
+  ],
+  "output" : { "item" : "fishlemonaquarium", "count" : 1 },
+  "groups" : [ "craftingcritters", "aquarium" ]
+}

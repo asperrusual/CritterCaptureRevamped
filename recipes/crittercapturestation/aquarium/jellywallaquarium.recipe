@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptywallaquarium_ocean", "count" : 1 },
+    { "item" : "capturedjelly", "count" : 1 }
+  ],
+  "output" : { "item" : "jellywallaquarium", "count" : 1 },
+  "groups" : [ "craftingcritters", "aquarium" ]
+}

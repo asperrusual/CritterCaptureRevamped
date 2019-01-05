@@ -1,0 +1,54 @@
+[
+  {
+    "op": "add",
+    "path": "/aliases",
+    "value": {
+      "default.default": "default.0"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/frameGrid/dimensions/0",
+    "value": 8
+  },
+  {
+    "op": "replace",
+    "path": "/frameGrid/names/0/0",
+    "value": "default.0"
+  },
+  {
+    "op": "add",
+    "path": "/frameGrid/names/0/-",
+    "value": "default.1"
+  },
+  {
+    "op": "add",
+    "path": "/frameGrid/names/0/-",
+    "value": "default.2"
+  },
+  {
+    "op": "add",
+    "path": "/frameGrid/names/0/-",
+    "value": "default.3"
+  },
+  {
+    "op": "add",
+    "path": "/frameGrid/names/0/-",
+    "value": "default.4"
+  },
+  {
+    "op": "add",
+    "path": "/frameGrid/names/0/-",
+    "value": "default.5"
+  },
+  {
+    "op": "add",
+    "path": "/frameGrid/names/0/-",
+    "value": "default.6"
+  },
+  {
+    "op": "add",
+    "path": "/frameGrid/names/0/-",
+    "value": "default.7"
+  }
+]

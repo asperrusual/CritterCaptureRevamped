@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedashrock",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedashrock.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Ashrock",
+  "itemTags" : [ "reagent" ]
+}

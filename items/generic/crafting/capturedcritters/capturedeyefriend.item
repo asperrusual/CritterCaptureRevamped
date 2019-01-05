@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedeyefriend",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedeyefriend.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Eyefriend",
+  "itemTags" : [ "reagent" ]
+}

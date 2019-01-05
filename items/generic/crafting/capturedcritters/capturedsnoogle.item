@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsnoogle",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsnoogle.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Snoogle",
+  "itemTags" : [ "reagent" ]
+}

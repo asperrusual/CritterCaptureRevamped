@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsackbag",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsackbag.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Sackbag",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedmaggot",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedmaggot.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Maggot",
+  "itemTags" : [ "reagent" ]
+}

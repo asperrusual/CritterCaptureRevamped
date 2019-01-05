@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptycrittercage", "count" : 1 },
+    { "item" : "capturedvolcanicflower", "count" : 1 }
+  ],
+  "output" : { "item" : "volcanicflowercage", "count" : 1 },
+  "groups" : [ "craftingcritters", "crittercage" ]
+}

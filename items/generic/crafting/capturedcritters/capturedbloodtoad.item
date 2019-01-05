@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedbloodtoad",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedbloodtoad.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Blood Toad",
+  "itemTags" : [ "reagent" ]
+}

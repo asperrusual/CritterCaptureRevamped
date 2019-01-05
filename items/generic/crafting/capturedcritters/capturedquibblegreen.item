@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedquibblegreen",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedquibblegreen.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Quibble",
+  "itemTags" : [ "reagent" ]
+}

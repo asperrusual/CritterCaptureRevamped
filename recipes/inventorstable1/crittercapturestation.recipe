@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 25 },
+    { "item" : "logblock", "count" : 10 }
+  ],
+  "output" : { "item" : "crittercapturestation", "count" : 1 },
+  "groups" : [ "inventorstable2", "craftingstations", "all" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsnail",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsnail.png",
+  "description" : "A captured snail.",
+  "shortdescription" : "Captured Snail",
+  "itemTags" : [ "reagent" ]
+}

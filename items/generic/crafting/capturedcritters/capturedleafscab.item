@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedleafscab",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedleafscab.png",
+  "description" : "A captured scab bug.",
+  "shortdescription" : "Captured Leaf Scab",
+  "itemTags" : [ "reagent" ]
+}

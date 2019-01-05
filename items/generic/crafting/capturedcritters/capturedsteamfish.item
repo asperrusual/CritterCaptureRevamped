@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsteamfish",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsteamfish.png",
+  "description" : "A captured fish.",
+  "shortdescription" : "Captured Steam Fish",
+  "itemTags" : [ "reagent" ]
+}

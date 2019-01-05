@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptywallaquarium_poison", "count" : 1 },
+    { "item" : "capturedpufferfish", "count" : 1 }
+  ],
+  "output" : { "item" : "pufferfishwallaquarium", "count" : 1 },
+  "groups" : [ "craftingcritters", "aquarium" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedbowbird",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedbowbird.png",
+  "description" : "A captured bird.",
+  "shortdescription" : "Captured Bow Bird",
+  "itemTags" : [ "reagent" ]
+}

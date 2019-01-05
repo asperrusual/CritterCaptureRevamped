@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptywallcage", "count" : 1 },
+    { "item" : "capturedsnowymole", "count" : 1 }
+  ],
+  "output" : { "item" : "snowymolewallcage", "count" : 1 },
+  "groups" : [ "craftingcritters", "crittercage" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedreasonable",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedreasonable.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Reasonable",
+  "itemTags" : [ "reagent" ]
+}

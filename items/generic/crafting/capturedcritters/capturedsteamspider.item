@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsteamspider",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsteamspider.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Steam Spider",
+  "itemTags" : [ "reagent" ]
+}

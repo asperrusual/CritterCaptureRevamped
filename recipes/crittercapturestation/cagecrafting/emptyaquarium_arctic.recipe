@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "emptycrittercage", "count" : 1 },
+    { "item" : "liquidwater", "count" : 20 },
+    { "item" : "ice", "count" : 5 }
+  ],
+  "output" : { "item" : "emptyaquarium_arctic", "count" : 1 },
+  "groups" : [ "craftingcritters", "cagecrafting" ]
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "toubirdcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "*Note: Following this, or any other bird's, nose does not guarantee finding part of a complete breakfast.",
+  "shortdescription" : "Toucan Birdcage",
+  "race" : "generic",
+
+  "inventoryIcon" : "birdcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "birdcageground.png:<frame>.<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 8,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "dualImage" : "birdcageceiling.png:<frame>.<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 8,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

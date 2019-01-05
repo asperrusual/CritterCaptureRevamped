@@ -1,0 +1,23 @@
+{
+  "objectName" : "snorewallcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "Don't let the name fool you - these guys are as fun and energetic as they come!",
+  "shortdescription" : "Captured Snore",
+  "race" : "generic",
+
+  "inventoryIcon" : "wallcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "wallcage.png:<frame>.<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 40,
+      "animationCycle" : 4.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

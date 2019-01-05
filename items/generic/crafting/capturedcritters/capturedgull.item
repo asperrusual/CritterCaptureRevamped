@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedgull",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedgull.png",
+  "description" : "A captured bird.",
+  "shortdescription" : "Captured Seagull",
+  "itemTags" : [ "reagent" ]
+}

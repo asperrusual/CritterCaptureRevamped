@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedchev",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedchev.png",
+  "description" : "A captured chev.",
+  "shortdescription" : "Captured Chev",
+  "itemTags" : [ "reagent" ]
+}

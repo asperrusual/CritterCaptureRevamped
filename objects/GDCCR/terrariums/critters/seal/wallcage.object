@@ -1,0 +1,23 @@
+{
+  "objectName" : "sealwallcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "A chubby baby seal. It slips and slides to wherever it needs to be.",
+  "shortdescription" : "Captured Seal",
+  "race" : "generic",
+
+  "inventoryIcon" : "wallcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "wallcage.png:<frame>.<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 32,
+      "animationCycle" : 4.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

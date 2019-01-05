@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedvolcanicflower",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedvolcanicflower.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Volcanic Flower",
+  "itemTags" : [ "reagent" ]
+}

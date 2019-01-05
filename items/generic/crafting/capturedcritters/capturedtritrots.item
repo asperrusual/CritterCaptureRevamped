@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedtritrots",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedtritrots.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Tritrots",
+  "itemTags" : [ "reagent" ]
+}

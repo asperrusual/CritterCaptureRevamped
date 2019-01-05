@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsqueek",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsqueek.png",
+  "description" : "A captured squeak.",
+  "shortdescription" : "Captured Squeek",
+  "itemTags" : [ "reagent" ]
+}

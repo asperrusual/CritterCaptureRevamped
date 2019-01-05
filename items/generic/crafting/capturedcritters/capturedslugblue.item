@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedslugblue",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedslugblue.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Slug",
+  "itemTags" : [ "reagent" ]
+}

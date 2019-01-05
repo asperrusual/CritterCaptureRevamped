@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedbird",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedbird.png",
+  "description" : "A captured bird.",
+  "shortdescription" : "Captured Bird",
+  "itemTags" : [ "reagent" ]
+}

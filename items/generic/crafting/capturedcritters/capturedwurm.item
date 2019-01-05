@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedwurm",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedwurm.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Wurm",
+  "itemTags" : [ "reagent" ]
+}

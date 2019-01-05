@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedavianscab",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedavianscab.png",
+  "description" : "A captured scab bug.",
+  "shortdescription" : "Captured Avian Scab",
+  "itemTags" : [ "reagent" ]
+}

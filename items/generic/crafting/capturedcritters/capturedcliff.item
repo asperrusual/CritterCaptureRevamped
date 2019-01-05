@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedcliff",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedcliff.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Cliff",
+  "itemTags" : [ "reagent" ]
+}

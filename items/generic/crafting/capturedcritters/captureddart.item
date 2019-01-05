@@ -1,0 +1,10 @@
+{
+  "itemName" : "captureddart",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "captureddart.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Dart",
+  "itemTags" : [ "reagent" ]
+}

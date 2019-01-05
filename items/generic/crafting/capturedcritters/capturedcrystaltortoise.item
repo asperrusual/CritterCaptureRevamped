@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedcrystaltortoise",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedcrystaltortoise.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Crystal Tortoise",
+  "itemTags" : [ "reagent" ]
+}

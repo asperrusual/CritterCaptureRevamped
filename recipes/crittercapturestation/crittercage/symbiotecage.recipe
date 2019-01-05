@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptycrittercage", "count" : 1 },
+    { "item" : "capturedsymbiote", "count" : 1 }
+  ],
+  "output" : { "item" : "symbiotecage", "count" : 1 },
+  "groups" : [ "craftingcritters", "crittercage" ]
+}

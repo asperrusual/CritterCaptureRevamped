@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptycrittercage", "count" : 1 },
+    { "item" : "captureddarknessscab", "count" : 1 }
+  ],
+  "output" : { "item" : "darknessscabcage", "count" : 1 },
+  "groups" : [ "craftingcritters", "crittercage" ]
+}

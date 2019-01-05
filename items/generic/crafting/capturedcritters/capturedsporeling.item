@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsporeling",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsporeling.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Sporeling",
+  "itemTags" : [ "reagent" ]
+}

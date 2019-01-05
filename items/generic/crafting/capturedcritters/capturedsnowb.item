@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsnowb",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsnowb.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Snowball",
+  "itemTags" : [ "reagent" ]
+}

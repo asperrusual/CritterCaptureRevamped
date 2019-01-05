@@ -1,0 +1,33 @@
+{
+  "objectName" : "crystalbirdbirdcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "A bird that shimmers like crystal on cold winter days.",
+  "shortdescription" : "Crystal Bird Birdcage",
+  "race" : "generic",
+
+  "inventoryIcon" : "birdcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "birdcageground.png:<frame>.<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 12,
+      "animationCycle" : 3,
+
+      "spaceScan" : 0,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "dualImage" : "birdcageceiling.png:<frame>.<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 12,
+      "animationCycle" : 3,
+
+      "spaceScan" : 0,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

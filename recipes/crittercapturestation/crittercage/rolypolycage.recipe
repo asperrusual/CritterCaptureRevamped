@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptycrittercage", "count" : 1 },
+    { "item" : "capturedrolypoly", "count" : 1 }
+  ],
+  "output" : { "item" : "rolypolycage", "count" : 1 },
+  "groups" : [ "craftingcritters", "crittercage" ]
+}

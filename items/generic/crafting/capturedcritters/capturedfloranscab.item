@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedfloranscab",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedfloranscab.png",
+  "description" : "A captured scab bug.",
+  "shortdescription" : "Captured Floran Scab",
+  "itemTags" : [ "reagent" ]
+}

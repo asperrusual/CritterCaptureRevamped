@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedhylotlscab",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedhylotlscab.png",
+  "description" : "A captured scab bug.",
+  "shortdescription" : "Captured Hylotl Scab",
+  "itemTags" : [ "reagent" ]
+}

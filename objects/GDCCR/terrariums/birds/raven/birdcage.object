@@ -1,0 +1,33 @@
+{
+  "objectName" : "ravenbirdcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "Quoth the Raven...nevermore.",
+  "shortdescription" : "Raven Birdcage",
+  "race" : "generic",
+
+  "inventoryIcon" : "birdcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "birdcageground.png:<frame>.<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 9,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "dualImage" : "birdcageceiling.png:<frame>.<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 9,
+      "animationCycle" : 1,
+
+      "spaceScan" : 0,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

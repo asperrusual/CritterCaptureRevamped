@@ -1,0 +1,40 @@
+{
+  "objectName" : "steamspiderwallcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "A sentient lightbulb sounds like a great idea until it wanders off when you need it most.",
+  "shortdescription" : "Captured Steam Spider",
+  "race" : "generic",
+  "lightColor" : [175, 175, 150],
+
+
+  "inventoryIcon" : "wallcageicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "wallcage.png:<color>.<frame>", "fullbright" : true }, { "image" : "wallcagelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+
+      "frames" : 32,
+      "animationCycle" : 4.0,
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "wallcage.png:<color>.<frame>", "fullbright" : true }, { "image" : "wallcagelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "frames" : 32,
+      "animationCycle" : 4.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

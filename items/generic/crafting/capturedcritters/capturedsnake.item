@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsnake",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsnake.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Snake",
+  "itemTags" : [ "reagent" ]
+}

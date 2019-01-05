@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsquirrelgrey",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsquirrelgrey.png",
+  "description" : "A captured squirrel.",
+  "shortdescription" : "Captured Squirrel",
+  "itemTags" : [ "reagent" ]
+}

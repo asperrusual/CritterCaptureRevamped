@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedcrab",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedcrab.png",
+  "description" : "A captured crab.",
+  "shortdescription" : "Captured Crab",
+  "itemTags" : [ "reagent" ]
+}

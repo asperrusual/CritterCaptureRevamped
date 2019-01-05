@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedhumanscab",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedhumanscab.png",
+  "description" : "A captured scab bug.",
+  "shortdescription" : "Captured Human Scab",
+  "itemTags" : [ "reagent" ]
+}

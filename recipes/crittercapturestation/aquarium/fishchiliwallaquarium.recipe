@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptywallaquarium_ocean", "count" : 1 },
+    { "item" : "capturedfishchili", "count" : 1 }
+  ],
+  "output" : { "item" : "fishchiliwallaquarium", "count" : 1 },
+  "groups" : [ "craftingcritters", "aquarium" ]
+}

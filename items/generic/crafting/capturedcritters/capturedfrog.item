@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedfrog",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedfrog.png",
+  "description" : "A captured frog.",
+  "shortdescription" : "Captured Frog",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedbouncebag",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedbouncebag.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Bouncebag",
+  "itemTags" : [ "reagent" ]
+}

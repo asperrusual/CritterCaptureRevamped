@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptybirdcage", "count" : 1 },
+    { "item" : "captureddart", "count" : 1 }
+  ],
+  "output" : { "item" : "dartbirdcage", "count" : 1 },
+  "groups" : [ "craftingcritters", "birdcage" ]
+}

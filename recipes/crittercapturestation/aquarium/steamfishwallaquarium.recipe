@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptywallaquarium_arctic", "count" : 1 },
+    { "item" : "capturedsteamfish", "count" : 1 }
+  ],
+  "output" : { "item" : "steamfishwallaquarium", "count" : 1 },
+  "groups" : [ "craftingcritters", "aquarium" ]
+}

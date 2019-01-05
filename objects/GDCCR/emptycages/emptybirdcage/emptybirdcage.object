@@ -1,0 +1,27 @@
+{
+  "objectName" : "emptybirdcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "Empty...",
+  "shortdescription" : "Empty Bird Cage",
+  "race" : "generic",
+
+  "inventoryIcon" : "emptybirdcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "emptybirdcageground.png:<color>",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "dualImage" : "emptybirdcageceiling.png:<color>",
+      "imagePosition" : [-8, 0],
+      "spaceScan" : 0,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

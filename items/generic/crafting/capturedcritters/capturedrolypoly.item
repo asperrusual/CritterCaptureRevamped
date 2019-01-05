@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedrolypoly",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedrolypoly.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Roly-Poly",
+  "itemTags" : [ "reagent" ]
+}

@@ -1,0 +1,21 @@
+{
+  "objectName" : "emptycrittercage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "Empty...",
+  "shortdescription" : "Empty Critter Cage",
+  "race" : "generic",
+
+  "inventoryIcon" : "emptycrittercageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "emptycrittercage.png:<color>",
+      "imagePosition" : [-16, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

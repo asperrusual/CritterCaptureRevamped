@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedbunny",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedbunny.png",
+  "description" : "A captured bunny.",
+  "shortdescription" : "Captured Bunny",
+  "itemTags" : [ "reagent" ]
+}

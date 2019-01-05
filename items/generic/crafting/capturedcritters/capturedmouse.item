@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedmouse",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedmouse.png",
+  "description" : "A captured mouse.",
+  "shortdescription" : "Captured Mouse",
+  "itemTags" : [ "reagent" ]
+}

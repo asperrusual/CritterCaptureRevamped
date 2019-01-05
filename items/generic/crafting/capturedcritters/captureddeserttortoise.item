@@ -1,0 +1,10 @@
+{
+  "itemName" : "captureddeserttortoise",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "captureddeserttortoise.png",
+  "description" : "A captured desert tortoise.",
+  "shortdescription" : "Captured Desert Tortoise",
+  "itemTags" : [ "reagent" ]
+}

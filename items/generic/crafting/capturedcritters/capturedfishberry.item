@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedfishberry",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedfishberry.png",
+  "description" : "A captured fish.",
+  "shortdescription" : "Captured Berry Fish",
+  "itemTags" : [ "reagent" ]
+}

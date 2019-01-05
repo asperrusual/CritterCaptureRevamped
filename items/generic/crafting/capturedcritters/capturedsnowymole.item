@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedsnowymole",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedsnowymole.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Snowy Mole",
+  "itemTags" : [ "reagent" ]
+}

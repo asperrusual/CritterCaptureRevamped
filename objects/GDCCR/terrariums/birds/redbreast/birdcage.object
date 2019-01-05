@@ -1,0 +1,33 @@
+{
+  "objectName" : "redbreastbirdcage",
+  "tags" : ["nature"],
+  "rarity" : "Common",
+  "price" : 0,
+  "printable" : false,
+  "description" : "A...robin? Either way they're known as a redbreast.",
+  "shortdescription" : "Redbreast Birdcage",
+  "race" : "generic",
+
+  "inventoryIcon" : "birdcageicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "birdcageground.png:<frame>.<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 10,
+      "animationCycle" : 3,
+
+      "spaceScan" : 0,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "dualImage" : "birdcageceiling.png:<frame>.<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 10,
+      "animationCycle" : 3,
+
+      "spaceScan" : 0,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

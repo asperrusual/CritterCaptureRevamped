@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedblip",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedblip.png",
+  "description" : "A captured critter.",
+  "shortdescription" : "Captured Blip",
+  "itemTags" : [ "reagent" ]
+}

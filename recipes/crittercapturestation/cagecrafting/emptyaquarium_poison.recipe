@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "emptycrittercage", "count" : 1 },
+    { "item" : "liquidpoison", "count" : 20 }
+  ],
+  "output" : { "item" : "emptyaquarium_poison", "count" : 1 },
+  "groups" : [ "craftingcritters", "cagecrafting" ]
+}
