@@ -2,8 +2,8 @@
   "version" : "0.1",
   "author" : "AsPerrUsual",
   "description" : "Placeable critter enclosures. How fancy!",
-  "name" : "GDCCR",
-  "friendlyName" : "God Dame Critter Capture: Revamped!",
+  "name" : "CCR",
+  "friendlyName" : "Critter Capture: Revamped!",
   "steamContentId" : "1157929915",
   "tags" : "Crafting and Building|Furniture and Objects|NPCs and Creatures"
 }
