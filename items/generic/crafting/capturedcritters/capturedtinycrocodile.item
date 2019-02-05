@@ -1,0 +1,10 @@
+{
+  "itemName" : "capturedtinycrocodile",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "Captured Critter",
+  "inventoryIcon" : "capturedtinycrocodile.png",
+  "description" : "A captured tiny crocodile.",
+  "shortdescription" : "Captured Tiny Crocodile",
+  "itemTags" : [ "reagent" ]
+}

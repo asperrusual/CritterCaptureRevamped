@@ -15,7 +15,7 @@
       "imageLayers" : [ { "image" : "crittercage.png:<color>.<frame>", "fullbright" : true }, { "image" : "crittercagelit.png:<color>.<frame>" } ],
       "imagePosition" : [-16, 0],
 
-      "frames" : 32,
+      "frames" : 40,
       "animationCycle" : 4.0,
 
       "direction" : "left",
@@ -30,7 +30,7 @@
       "imagePosition" : [-16, 0],
       "direction" : "right",
 
-      "frames" : 32,
+      "frames" : 40,
       "animationCycle" : 4.0,
 
       "spaceScan" : 0.1,
